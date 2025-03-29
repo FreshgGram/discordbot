@@ -1,4 +1,4 @@
-# Use the official Node.js image.
+# Use the official Node.js image..
 # https://hub.docker.com/_/nodeFROM node:16
 
 # Create and change to the app directory.
